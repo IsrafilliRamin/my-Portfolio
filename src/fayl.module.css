@@ -1,0 +1,11 @@
+.App{
+    background-color: red;
+    height: 10vh;
+    width: 10vh;
+}
+
+.Apps{
+    background-color: greenyellow;
+    width: 100%;
+    height: 10vw;
+}

@@ -1,0 +1,20 @@
+
+
+.night{
+    left: 100%;
+    background-color: black;
+
+}
+
+.white{
+    background-color: aliceblue;
+}
+
+.active{
+    right: 0;
+    transition:ease-in-out 500ms;
+}
+
+.deactive{
+    left: 0;
+}
